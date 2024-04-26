@@ -2,8 +2,8 @@
 
 V okviru tega projekta se bomo ukvarjali s preprosto analizo besed.
 
-##avtorji
+## avtorji
 
-*en profesor 
-*dva profesorja 
-*trije profesorji 
+* en profesor 
+* dva profesorja 
+* trije profesorji 
